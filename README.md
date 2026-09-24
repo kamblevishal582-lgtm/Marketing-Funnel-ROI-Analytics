@@ -123,8 +123,6 @@ The dataset includes performance information across **5 marketing channels and 1
 | **DAX** | Dynamic KPI and analytical measures |
 
 ### Analytical Workflow
-
-```text
 Excel
    ↓
 Data Inspection & Validation
@@ -237,7 +235,6 @@ The dashboard provides the following overall marketing performance results:
 
 ### Marketing Funnel
 
-```text
 Impressions
 25,300,319
       ↓
